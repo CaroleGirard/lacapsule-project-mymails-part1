@@ -21,7 +21,6 @@
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    padding: 2%;
 }
 .identite {
     display: flex;
@@ -43,5 +42,4 @@ h6 {
 .trash {
     height: 15px;
     width: 15px;
-    padding: 2%;
 }
